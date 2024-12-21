@@ -1,6 +1,6 @@
 ; Change the Control value to whatever your rod's Control value is 
-Controll := 0.05
-Control := (Controll*.6)
+Control := 0.05
+Control := (Control*.6)
 ; Don't edit anything beyond this point
 barWidth := Floor(96 + (Control*326.67))
 
